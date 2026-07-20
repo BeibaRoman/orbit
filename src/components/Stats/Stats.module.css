@@ -1,0 +1,24 @@
+.statsInner {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+
+.statItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.statQuantity {
+  font-size: 36px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.statLabel {
+  font-size: 14px;
+  color: #d9d7fb;
+  margin-top: 4px;
+}

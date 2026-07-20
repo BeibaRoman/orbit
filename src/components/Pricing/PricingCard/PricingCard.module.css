@@ -1,0 +1,48 @@
+.pricingCard {
+  position: relative;
+  padding: 32px;
+  border: 1px solid #eaeaea;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.pricingCardPopular {
+  border: 2px solid #4f46e5;
+  transform: scale(1.03);
+}
+
+.popularBadge {
+  position: absolute;
+  top: -14px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #4f46e5;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 14px;
+  border-radius: 999px;
+}
+
+.planName {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.planPrice {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.planFeatures {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.planFeature {
+  font-size: 14px;
+  color: #5c5c6e;
+}

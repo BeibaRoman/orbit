@@ -1,0 +1,36 @@
+.testimonialCard {
+  background-color: #ffffff;
+  padding: 28px;
+  border-radius: 12px;
+  border: 1px solid #eaeaea;
+}
+
+.testimonialText {
+  font-size: 15px;
+  color: #3a3a4a;
+  margin-bottom: 20px;
+  font-style: italic;
+}
+
+.testimonialAuthor {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.authorName {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.authorRole {
+  font-size: 13px;
+  color: #8a8a9a;
+}

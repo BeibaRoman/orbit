@@ -1,0 +1,22 @@
+.footer {
+  margin-top: auto;
+  border-top: 1px solid #eaeaea;
+}
+
+/* локальний layout-клас, вішається ДРУГИМ класом поруч з .container */
+.footerInner {
+  text-align: center;
+  padding: 32px 0;
+}
+
+.footerLogo {
+  font-size: 18px;
+  font-weight: 700;
+  color: #4f46e5;
+  margin-bottom: 8px;
+}
+
+.footerCopyright {
+  font-size: 13px;
+  color: #8a8a9a;
+}

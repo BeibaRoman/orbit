@@ -1,0 +1,25 @@
+.section {
+  width: 100%;
+}
+
+.md {
+  padding: 80px 0;
+}
+
+.lg {
+  padding: 100px 0;
+}
+
+.default {
+  background-color: #ffffff;
+}
+
+.muted {
+  background-color: #f7f7fb;
+}
+
+.accent {
+  background-color: #4f46e5;
+}
+
+
