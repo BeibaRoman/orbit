@@ -4,7 +4,7 @@
 
 ## Демо
 
-🔗 [Дивитись онлайн](https://твоє-посилання-на-vercel.app)
+🔗 [Дивитись онлайн](https://beibaroman.github.io/orbit/)
 
 ![Orbit screenshot](./screenshot.png)
 
